@@ -8,7 +8,13 @@ import {
 } from "@/components/ui/card";
 import { Progress } from "@/components/ui/progress";
 import { Button } from "@/components/ui/button";
-import { Play, Plus } from "lucide-react";
+import { 
+  BookOpenCheck,
+  FlaskConical, 
+  GraduationCap,
+  Play, 
+  Plus 
+} from "lucide-react";
 import { Link } from "react-router-dom";
 
 const Dashboard = () => {
